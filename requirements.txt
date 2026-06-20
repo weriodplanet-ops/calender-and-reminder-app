@@ -1,0 +1,10 @@
+# Calendar and Reminder App Requirements
+# tkinter is built-in with Python, so no need to install it separately
+# For database operations, we use built-in sqlite3 module
+
+# Optional dependencies for enhanced features:
+# Uncomment if you want to add these features
+
+# python-dateutil>=2.8.2  # Advanced date utilities
+# pytz>=2024.1            # Timezone support
+# pillow>=10.0.0          # For image handling in future updates
